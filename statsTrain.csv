@@ -1,7 +1,0 @@
-,Model,HTuned,Params,TTuned,Threshold,TP,TN,FP,FN
-0,Logistic Regression,No,{'Parameters': 'Basic model was used'},No,0.5,9,6423,11,1219
-1,Logistic Regression,Balanced Accuracy,"{'C': [1], 'l1_ratio': [0.66], 'penalty': ['l1'], 'solver': ['liblinear'], 'tol': [0.001]}",No,0.5,719,4178,2256,509
-2,Logistic Regression,Balanced Accuracy,{'Parameters': 'See Logistic Regression HTuned Balanced Accuracy'},Balanced Accuracy,0.4618,849,3548,2886,379
-3,Linear SVC,No,{'Parameters': 'Basic model was used'},No,0.5,3,6428,6,1225
-4,Linear SVC,Balanced Accuracy,"{'C': 1, 'loss': 'squared_hinge', 'penalty': 'l1', 'tol': 0.001}",No,0.5,706,4259,2175,522
-5,Linear SVC,Balanced Accuracy,{'Parameters': 'See Linear SVC HTuned Balanced Accuracy'},Balanced Accuracy,-0.0896,870,3419,3015,358
