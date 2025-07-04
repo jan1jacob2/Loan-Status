@@ -5,3 +5,6 @@
 3,Linear SVC,Balanced Accuracy,"{'C': 1, 'loss': 'squared_hinge', 'penalty': 'l1', 'tol': 0.001}",No,0.5,197,1071,540,108
 4,Linear SVC,Balanced Accuracy,{'Parameters': 'See Linear SVC HTuned Balanced Accuracy'},Balanced Accuracy,-0.0896,228,847,764,77
 5,Linear SVC,No,{'Parameters': 'Basic model was used'},No,0.5,2,1610,1,303
+6,Native Bayes,No,{'Parameters': 'Basic model was used'},No,0.5,28,1542,69,277
+7,KNN,No,{'Parameters': 'Basic model was used'},No,0.5,15,1543,68,290
+8,KNN,Balanced Accuracy,"{'algorithm': 'auto', 'n_neighbors': 5, 'p': 4}",No,0.5,17,1540,71,288
